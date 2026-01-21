@@ -13,20 +13,21 @@
 </p>
 
 ### 🎯 Specialties
-- Web Dev: Responsive UIs
-- Frameworks: React, Angular, Vue
-- UI/UX: Intuitive designs
-- Optimization: Fast performance
-- AI & Automation: Smart tools
+
+<img align="right" width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MakotoArai-CN&theme=dracula" />
+
+- 🌐 **Web Dev:** Responsive UIs
+- ⚛️ **Frameworks:** React, Angular, Vue, Svelte
+- 🎨 **UI/UX:** Intuitive designs
+- ⚡ **Optimization:** Fast performance
+- 🤖 **AI & Automation:** Smart tools
+
+<br clear="both"/>
 
 ### 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakotoArai-CN&layout=compact&theme=neon&hide_border=true&langs_count=8" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=MakotoArai-CN&show_icons=true&theme=neon&hide_border=true" alt="Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MakotoArai-CN&theme=dracula" alt="Summary" />
 </p>
 
 <p align="center">
