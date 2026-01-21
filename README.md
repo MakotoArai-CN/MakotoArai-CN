@@ -30,9 +30,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MakotoArai-CN&theme=dracula&hide_border=true&locale=zh_Hans&short_numbers=true" alt="Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MakotoArai-CN&bg_color=1a1b27&color=bb9af7&line=bb9af7&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
