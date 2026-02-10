@@ -9,7 +9,7 @@
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,go,python,kotlin,svelte" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,go,python,kotlin,svelte,zig,lua" alt="Skills" />
 </p>
 
 ### 🎯 Specialties
